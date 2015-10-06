@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/utils
+END
+AuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/44/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/utils/AuthenticationFilter.java
+END
+TransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/utils/TransactionManager.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/utils/Page.java
+END
+RightFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/utils/RightFilter.java
+END
+CharacterEncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/45/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/utils/CharacterEncodingFilter.java
+END
+DBUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/utils/DBUtils.java
+END

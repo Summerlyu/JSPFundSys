@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/trunk/trunk/FundTradeSystem/WebRoot/jsps/client
+END
+add_client.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/44/trunk/trunk/FundTradeSystem/WebRoot/jsps/client/add_client.jsp
+END
+list_client.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/trunk/trunk/FundTradeSystem/WebRoot/jsps/client/list_client.jsp
+END
+list_detailclient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/39/trunk/trunk/FundTradeSystem/WebRoot/jsps/client/list_detailclient.jsp
+END
+update_client.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/trunk/FundTradeSystem/WebRoot/jsps/client/update_client.jsp
+END

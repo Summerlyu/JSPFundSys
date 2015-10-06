@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/43/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao
+END
+FundTransDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundTransDao.java
+END
+FundHoldingDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/43/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundHoldingDaoJDBCImpl.java
+END
+OperatorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/OperatorDao.java
+END
+FinancialAccountDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FinancialAccountDao.java
+END
+FundDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundDao.java
+END
+FundAccountDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundAccountDao.java
+END
+FundTransDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundTransDaoJDBCImpl.java
+END
+AccountTransInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/AccountTransInfoDao.java
+END
+OperatorDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/OperatorDaoJDBCImpl.java
+END
+FinancialAccountDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FinancialAccountDaoJDBCImpl.java
+END
+FundDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundDaoJDBCImpl.java
+END
+ClientDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/ClientDao.java
+END
+FundAccountDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundAccountDaoJDBCImpl.java
+END
+AccountTransInfoDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/AccountTransInfoDaoJDBCImpl.java
+END
+ClientDaoJDBCImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/43/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/ClientDaoJDBCImpl.java
+END
+FundHoldingDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/43/trunk/trunk/FundTradeSystem/src/edu/fjnu/fundtradesys/dao/FundHoldingDao.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/WebRoot/WEB-INF/lib
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/WebRoot/WEB-INF/lib/commons-logging.jar
+END
+commons-lang3-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/WebRoot/WEB-INF/lib/commons-lang3-3.0.1.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/WebRoot/WEB-INF/lib/ojdbc14.jar
+END
+proxool-0.9.0RC3_.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/trunk/trunk/FundTradeSystem/WebRoot/WEB-INF/lib/proxool-0.9.0RC3_.jar
+END

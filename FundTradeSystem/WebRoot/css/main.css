@@ -1,0 +1,89 @@
+@charset "utf-8";
+body {
+    color: #000000;
+    font-family: Tahoma,Arial,sans-serif,"宋体";
+    font-size: 12px;
+}
+
+span{
+	font-size:16px;
+}
+.clear {
+    border-style: none;
+    border-width: 0;
+    clear: both;
+    display: block;
+    float: none;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    margin: 5px;
+    overflow: hidden;
+    padding: 0;
+}
+.body {
+   
+    border: 0 none;
+    color: #000000;
+    font-family: Tahoma,Arial,sans-serif,"宋体";
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin: 0 auto;
+    width: 902px;
+    *position:relative;
+    *top:10px;
+    *left:423px;
+    
+}
+
+.nav_i {
+    display: none;
+}
+.head_new {
+    width: 902px;
+}
+.head_logo {
+    display: inline;
+    float: left;
+    height: 50px;
+    margin: 4px 16px 0 25px;
+    width: 275px;
+}
+.head_right {
+    float: right;
+    padding-bottom: 12px;
+    padding-top: 17px;
+    text-align: right;
+}
+.head_right {
+    float: right;
+    padding-bottom: 12px;
+    padding-top: 18px;
+    text-align: right;
+}
+ .f_row{
+ 		position:relative;
+ 		left:200px;
+      	margin:20px;
+      }
+ .f_rowl{
+ 	 margin:20px;
+ }
+ #f_title{
+ 		font-size:200%;
+      	font-weight:bold;
+ 	}
+#wrapper{
+		position:relative;
+		left:20px;
+}
+#welcome{
+	font-size:28px;
+	font-weight:bold;
+	font-style:oblique;
+	margin-left:120px;
+	margin-top:50px;
+}
